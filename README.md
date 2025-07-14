@@ -65,4 +65,5 @@ This project is licensed under the MIT License by Alerotek
 🙋‍♀️ Author
 Developed by kevin Munje 
 In partnership with Alerotek & Kilifi-based farming communities.
+https://agric-eg-tunnel-dryer-app.vercel.app/
 
